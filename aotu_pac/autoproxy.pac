@@ -5408,6 +5408,7 @@ var rules = [
             "yangjianli.com", 
             "yasni.co.uk", 
             "yayabay.com", 
+            "ycombinator.com",
             "ydy.com", 
             "yeahteentube.com", 
             "yecl.net", 
