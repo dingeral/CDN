@@ -5409,6 +5409,7 @@ var rules = [
             "yasni.co.uk", 
             "yayabay.com", 
             "ycombinator.com",
+            "news.ycombinator.com",
             "ydy.com", 
             "yeahteentube.com", 
             "yecl.net", 
