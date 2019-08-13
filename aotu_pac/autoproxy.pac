@@ -5428,7 +5428,7 @@ var rules = [
             "yhcw.net", 
             "yibada.com", 
             "yibaochina.com", 
-            "yidaofei.com"
+            "yidaofei.com",
             "yidio.com", 
             "yilubbs.com", 
             "yimg.com", 
