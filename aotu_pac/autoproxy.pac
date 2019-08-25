@@ -3,7 +3,9 @@
  * Generated: 2019-07-17 11:44:30
  * GFWList Last-Modified: 2019-07-15 07:40:46
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
+ * by dingeral
  */
+
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
 var rules = [
@@ -4517,6 +4519,7 @@ var rules = [
             "tfhub.dev", 
             "thaicn.com", 
             "thb.gov.tw", 
+            "theatlantic.com",
             "theatrum-belli.com", 
             "thebcomplex.com", 
             "theblemish.com", 
@@ -5562,7 +5565,9 @@ var rules = [
             "zyzc9.com", 
             "zzcartoon.com", 
             "zzcloud.me", 
-            "zzux.com"
+            "zzux.com",
+            //by yourself
+            "trello.com",
         ]
     ]
 ];
