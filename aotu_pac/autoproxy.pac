@@ -5568,6 +5568,7 @@ var rules = [
             "zzux.com",
             //by yourself
             "trello.com",
+            "http://i-remember.fr/en",
         ]
     ]
 ];
