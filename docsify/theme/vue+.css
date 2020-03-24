@@ -54,7 +54,7 @@ body {
 body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  color: #34495e;
+  color: #080808;
   font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
   font-size: 15px;
   letter-spacing: 0;
@@ -196,7 +196,7 @@ main.hidden {
   transition: all 0.3s;
 }
 .anchor span {
-  color: #34495e;
+  color: #046dce;
 }
 .anchor:hover {
   text-decoration: underline;
@@ -598,7 +598,7 @@ body {
   margin: 6px 0 6px 0;
 }
 .sidebar ul li a {
-  color: #505d6b;
+  color: #1c1c1d;
   font-size: 14px;
   font-weight: normal;
   overflow: hidden;
