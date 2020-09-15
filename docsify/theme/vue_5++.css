@@ -237,7 +237,7 @@ main.hidden {
   content: '';
   display: block;
   position: absolute;
-  top: 4px;
+  top: 5px;
   left: -16px;
   height: 14px;
   width: 14px;
